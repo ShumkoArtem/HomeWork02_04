@@ -138,6 +138,7 @@ public class Main {
         return str;
     }
 
+
     //вводим логин
     private static String addingPassword() throws IOException {
         String password = reader.readLine();
